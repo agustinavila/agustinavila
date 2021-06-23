@@ -1,0 +1,5 @@
+- 👋 Hola! Soy @agustinavila, estudiante de Ingenieria Electrónica en la Universidad Nacional de San Juan.
+- 👨‍🏫 Soy auxiliar docente en "Teoría de circuitos" y "Electrotecnia" en la Facultad de Ingenieria UNSJ.
+- 🧑‍💻 Actualmente estoy interesado en vision artificial / machine learning / sistemas de control.
+- 📷 Me apasiona la fotografía y todo lo que tenga que ver con lo audiovisual.
+- 📫 Me podés contactar en tinto.avila@gmail.com o agustinavila@ieee.org
