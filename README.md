@@ -4,7 +4,7 @@
 - 👨‍🏫 Soy auxiliar docente en "Teoría de circuitos" y "Electrotecnia" en la Facultad de Ingenieria UNSJ.
 - 🧑‍💻 Actualmente estoy interesado en vision artificial / machine learning / sistemas de control.
 - 📷 Me apasiona la fotografía y todo lo que tenga que ver con lo audiovisual.
-- 📫 Me podés contactar en tinto.avila@gmail.com o agustinavila@ieee.org
+- 📫 Me podés contactar en avila.juan.agustin@gmail.com
 
 # Sobre los repositorios
 
